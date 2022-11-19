@@ -42,7 +42,7 @@ function numeroDigitos(num){
   return num.toString().length
 }
   
-  
+  //l
   // No modificar nada debajo de esta línea
   // --------------------------------
   
